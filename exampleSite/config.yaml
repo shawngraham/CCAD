@@ -1,6 +1,6 @@
-baseURL: https://ccad.netlify.com/
+baseURL: https://example.com
 languageCode: en-us
-title: CCAD
+title: Vanilla
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 
@@ -46,12 +46,6 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-<<<<<<< HEAD
-  homeText: Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream.
-  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
-  hideFooter: false
-=======
   homeText: Is this thing on?
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: false
->>>>>>> d0d2f55636878892123d822f99812a5f9fdc9ee1
