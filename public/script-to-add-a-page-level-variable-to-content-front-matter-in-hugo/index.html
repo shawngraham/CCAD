@@ -1,0 +1,280 @@
+<!doctype html>
+
+<html lang="en" class="h-100">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="stylesheet" href="https://example.com/css/bootstrap.min.css">
+  
+  
+  <title>Script to add a page-level variable to content front matter in hugo | Vanilla</title>
+  <style>
+.container {
+  max-width: 700px;
+}
+#nav a {
+  font-weight: bold;
+  color: inherit;
+}
+#nav a.nav-link-active {
+  background-color: #212529;
+  color: #fff;
+}
+#nav-border {
+  border-bottom: 1px solid #212529;
+}
+#main {
+  margin-top: 1em;
+  margin-bottom: 4em;
+}
+#home-jumbotron {
+  background-color: inherit;
+}
+#footer .container {
+  padding: 1em 0;
+}
+#footer a {
+  color: inherit;
+  text-decoration: underline;
+}
+.font-125 {
+  font-size: 125%;
+}
+.tag-btn {
+  margin-bottom: 0.3em;
+}
+pre {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 16px;
+}
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit; 
+  background-color: transparent;
+  border-radius: 0;
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+}
+img,
+iframe,
+embed,
+video,
+audio {
+  max-width: 100%;
+}
+</style>
+</head>
+  <body class="d-flex flex-column h-100">
+    <div id="nav-border" class="container">
+  <nav id="nav" class="nav justify-content-center">
+  
+  
+  
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/"><i data-feather="home"></i> Home</a>
+  
+    
+    
+      
+      
+      
+      
+       
+        
+        
+      
+    
+    
+    <a class="nav-link nav-link-active" href="/post/"><i data-feather="edit"></i> Blog</a>
+  
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/tags/"><i data-feather="tag"></i> Tags</a>
+  
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/about/"><i data-feather="smile"></i> About</a>
+  
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/index.xml"><i data-feather="rss"></i> RSS</a>
+  
+  </nav>
+</div>
+    <div class="container">
+      <main id="main">
+        
+
+<h1>Script to add a page-level variable to content front matter in hugo</h1>
+
+
+<i data-feather="calendar"></i> <time datetime="2018-10-10">Oct 10, 2018</time>
+
+  <br>
+  <i data-feather="tag"></i>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://example.com/tags/hugo">hugo</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://example.com/tags/command-line">command-line</a>
+  
+  
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="https://example.com/tags/awk">awk</a>
+  
+
+<br><br>
+
+
+<p>This was originally a question posed on the <a href="https://discourse.gohugo.io/t/set-frontmatter-params-in-list-template/14645">hugo discussion forums</a>.</p>
+
+<p>The user wanted to loop through all her content files and add a <code>weight</code> page-level variable to the front matter. The value of <code>weight</code> needed to be the first 2 characters of the content filename, since her content was named like <code>01_content.md</code>, <code>02_content.md</code>, etc.</p>
+
+<p>She then wanted to <code>range</code> through her pages by their weight, like so:</p>
+
+<pre><code class="language-go">{{ range .Pages.ByWeight }}
+&lt;!-- some code --&gt;
+{{ end }}
+</code></pre>
+
+<h2 id="the-script">The script</h2>
+
+<pre><code class="language-bash">#!/bin/bash
+
+for file in *.md; do
+    weight=${file:0:2}
+    awk -v weight=$weight '/---/{
+        count++
+        if(count == 2){
+        sub(&quot;---&quot;,&quot;weight: &quot; weight &quot;\n---&quot;,$0)
+        }
+    }
+    {print}' $file &gt; tmp &amp;&amp; mv tmp $file
+done
+</code></pre>
+
+<h2 id="explained">Explained</h2>
+
+<p>Loop through all files in the directory with extension <code>.md</code>:</p>
+
+<pre><code class="language-bash">for file in *.md; do
+    # ...
+done
+</code></pre>
+
+<p>Set a variable using the first 2 characters of the filename:</p>
+
+<pre><code class="language-bash">weight=${file:0:2}
+</code></pre>
+
+<p>Call an <code>awk</code> program and pass it a <code>weight</code> variable:</p>
+
+<pre><code class="language-bash">awk -v weight=$weight
+</code></pre>
+
+<p>When the <code>awk</code> program encounters the 2nd occurrence of <code>---</code> (which is how you end front matter in YAML), it inserts the <code>weight</code> page-level variable on the line above:</p>
+
+<pre><code class="language-bash">'/---/{
+    count++
+    if(count == 2){
+    sub(&quot;---&quot;,&quot;weight: &quot; weight &quot;\n---&quot;,$0)
+    }
+}
+{print}'
+</code></pre>
+
+<p>Redirect the output of the <code>awk</code> program to a tmp file, then overwrite the original content file with the tmp file:</p>
+
+<pre><code class="language-bash">&gt; tmp &amp;&amp; mv tmp $file
+</code></pre>
+
+<h2 id="result">Result</h2>
+
+<p>Original <code>01_content.md</code>:</p>
+
+<pre><code class="language-yml">---
+title: &quot;Some title&quot;
+draft: false
+---
+</code></pre>
+
+<p>Updated <code>01_content.md</code>:</p>
+
+<pre><code class="language-yml">---
+title: &quot;Some title&quot;
+draft: false
+weight: 01
+---
+</code></pre>
+
+
+
+      </main>
+    </div>
+    
+<footer id="footer" class="mt-auto text-center text-muted">
+  <div class="container">
+    Made with <a href="https://gohugo.io/">Hugo</a> &amp; <a href="https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme">Vanilla</a>
+  </div>
+</footer>
+
+    <script src="https://example.com/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+
+
+    
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-123456789-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </body>
+</html>
