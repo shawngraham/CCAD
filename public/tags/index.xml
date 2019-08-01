@@ -1,166 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Vanilla</title>
+    <title>Tags on Computational Creativity and Archaeological Data</title>
     <link>https://shawngraham.github.io/CCAD/tags/</link>
-    <description>Recent content in Tags on Vanilla</description>
+    <description>Recent content in Tags on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shawngraham.github.io/CCAD/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Awk</title>
-      <link>https://shawngraham.github.io/CCAD/tags/awk/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Gan</title>
+      <link>https://shawngraham.github.io/CCAD/tags/gan/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shawngraham.github.io/CCAD/tags/awk/</guid>
+      <guid>https://shawngraham.github.io/CCAD/tags/gan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bootstrap</title>
-      <link>https://shawngraham.github.io/CCAD/tags/bootstrap/</link>
-      <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
+      <title>Meta</title>
+      <link>https://shawngraham.github.io/CCAD/tags/meta/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shawngraham.github.io/CCAD/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Command Line</title>
-      <link>https://shawngraham.github.io/CCAD/tags/command-line/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/command-line/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Css</title>
-      <link>https://shawngraham.github.io/CCAD/tags/css/</link>
-      <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fedora</title>
-      <link>https://shawngraham.github.io/CCAD/tags/fedora/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/fedora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fun</title>
-      <link>https://shawngraham.github.io/CCAD/tags/fun/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
-      <link>https://shawngraham.github.io/CCAD/tags/git/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://shawngraham.github.io/CCAD/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://shawngraham.github.io/CCAD/tags/hugo/</link>
-      <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://shawngraham.github.io/CCAD/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Migration</title>
-      <link>https://shawngraham.github.io/CCAD/tags/migration/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nasa</title>
-      <link>https://shawngraham.github.io/CCAD/tags/nasa/</link>
-      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/nasa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quotes</title>
-      <link>https://shawngraham.github.io/CCAD/tags/quotes/</link>
-      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/quotes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Snap</title>
-      <link>https://shawngraham.github.io/CCAD/tags/snap/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/snap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>https://shawngraham.github.io/CCAD/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://shawngraham.github.io/CCAD/tags/theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://shawngraham.github.io/CCAD/tags/ubuntu/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/ubuntu/</guid>
+      <guid>https://shawngraham.github.io/CCAD/tags/meta/</guid>
       <description></description>
     </item>
     

@@ -2,6 +2,8 @@
 title: Computational Creativity and Archaeological Data
 ---
 
-> inspirational quote on computational creativity
+Shawn Graham, Carleton University
 
-> and now a depressing quote about archaeological data 
+A subproject of the [Computational Research in the Ancient Near East project](https://crane.utoronto.ca/), supported by the Social Sciences and Humanities Research Council of Canada
+
+![](https://raw.githubusercontent.com/bonetrade/bonetrade.github.io/master/_footer_files/SSHRC-CRSH_FIP.jpg)

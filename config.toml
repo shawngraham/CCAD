@@ -1,6 +1,6 @@
 baseURL = "https://shawngraham.github.io/CCAD"
 languageCode = "en-us"
-title = "Vanilla"
+title = "Computational Creativity and Archaeological Data"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 
@@ -25,7 +25,7 @@ googleAnalytics = "UA-123456789-1"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Blog"
+    name = "Updates"
     pre = "edit"
     url = "/post/"
     weight = 2
@@ -48,8 +48,8 @@ googleAnalytics = "UA-123456789-1"
 [params]
   includeBootstrapJs = false
   showActiveNav = true
-  containerMaxWidth = "700px"
+  containerMaxWidth = "800px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Is this thing on?"
+  #homeText = "Is this thing on?"
   footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = false
