@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vanilla</title>
-    <link>https://example.com/tags/</link>
+    <link>https://ccad.netlify.com/tags/</link>
     <description>Recent content in Tags on Vanilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ccad.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Awk</title>
-      <link>https://example.com/tags/awk/</link>
+      <link>https://ccad.netlify.com/tags/awk/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/awk/</guid>
+      <guid>https://ccad.netlify.com/tags/awk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bootstrap</title>
-      <link>https://example.com/tags/bootstrap/</link>
+      <link>https://ccad.netlify.com/tags/bootstrap/</link>
       <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
       
-      <guid>https://example.com/tags/bootstrap/</guid>
+      <guid>https://ccad.netlify.com/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Command Line</title>
-      <link>https://example.com/tags/command-line/</link>
+      <link>https://ccad.netlify.com/tags/command-line/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/command-line/</guid>
+      <guid>https://ccad.netlify.com/tags/command-line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://ccad.netlify.com/tags/css/</link>
       <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://ccad.netlify.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fedora</title>
-      <link>https://example.com/tags/fedora/</link>
+      <link>https://ccad.netlify.com/tags/fedora/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/fedora/</guid>
+      <guid>https://ccad.netlify.com/tags/fedora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fun</title>
-      <link>https://example.com/tags/fun/</link>
+      <link>https://ccad.netlify.com/tags/fun/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/fun/</guid>
+      <guid>https://ccad.netlify.com/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://example.com/tags/git/</link>
+      <link>https://ccad.netlify.com/tags/git/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/git/</guid>
+      <guid>https://ccad.netlify.com/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://example.com/tags/go/</link>
+      <link>https://ccad.netlify.com/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/go/</guid>
+      <guid>https://ccad.netlify.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>https://ccad.netlify.com/tags/hugo/</link>
       <pubDate>Wed, 12 Dec 2018 12:47:56 -0600</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://ccad.netlify.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>https://example.com/tags/jekyll/</link>
+      <link>https://ccad.netlify.com/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/jekyll/</guid>
+      <guid>https://ccad.netlify.com/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration</title>
-      <link>https://example.com/tags/migration/</link>
+      <link>https://ccad.netlify.com/tags/migration/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/migration/</guid>
+      <guid>https://ccad.netlify.com/tags/migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nasa</title>
-      <link>https://example.com/tags/nasa/</link>
+      <link>https://ccad.netlify.com/tags/nasa/</link>
       <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
       
-      <guid>https://example.com/tags/nasa/</guid>
+      <guid>https://ccad.netlify.com/tags/nasa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quotes</title>
-      <link>https://example.com/tags/quotes/</link>
+      <link>https://ccad.netlify.com/tags/quotes/</link>
       <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
       
-      <guid>https://example.com/tags/quotes/</guid>
+      <guid>https://ccad.netlify.com/tags/quotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snap</title>
-      <link>https://example.com/tags/snap/</link>
+      <link>https://ccad.netlify.com/tags/snap/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/snap/</guid>
+      <guid>https://ccad.netlify.com/tags/snap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://example.com/tags/templates/</link>
+      <link>https://ccad.netlify.com/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/templates/</guid>
+      <guid>https://ccad.netlify.com/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>https://example.com/tags/theme/</link>
+      <link>https://ccad.netlify.com/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/theme/</guid>
+      <guid>https://ccad.netlify.com/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>https://example.com/tags/ubuntu/</link>
+      <link>https://ccad.netlify.com/tags/ubuntu/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/ubuntu/</guid>
+      <guid>https://ccad.netlify.com/tags/ubuntu/</guid>
       <description></description>
     </item>
     

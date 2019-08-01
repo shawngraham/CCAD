@@ -1,6 +1,7 @@
 ---
-title: Home
-draft: true
+title: Computational Creativity and Archaeological Data
 ---
 
-Homepage content goes here. 
+> inspirational quote on computational creativity
+
+> and now a depressing quote about archaeological data 
