@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantics on Computational Creativity and Archaeological Data</title>
+    <link>https://shawngraham.github.io/CCAD/tags/semantics/</link>
+    <description>Recent content in Semantics on Computational Creativity and Archaeological Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shawngraham.github.io/CCAD/tags/semantics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semantic Similarity Chatbot</title>
+      <link>https://shawngraham.github.io/CCAD/notebooks/semantic-similarity-chatbot/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/notebooks/semantic-similarity-chatbot/</guid>
+      <description>The EMOTIVE project is using chatbots to foster archaeological empathy. I&amp;rsquo;m wondering, can I use a chatbot as a way of exploring the latent idea space of published archeological knowledge?
+Allison Parrish&amp;rsquo;s bot demonstrates how to build a chatbot trained on the Cornell Movie Dialogue Database. My ambition here is to train the bot on the written outputs of the CRANE project: an informed archaeological chatbot. The chatbot learns the archaeological words and via word embeddings the universe of related concepts.</description>
+    </item>
+    
+  </channel>
+</rss>
