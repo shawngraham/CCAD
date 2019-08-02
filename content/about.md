@@ -16,9 +16,9 @@ And I think she's right.
 
 ---
 
-**Shawn Graham** is Associate Professor of Digital Humanities in the Department of History at Carleton University in Ottawa, Canada.
+**Shawn Graham** is Associate Professor of Digital Humanities in the [Department of History at Carleton University in Ottawa, Canada](http://carleton.ca/history).
 
-**Jeff Blackadar** is an MA History with Data Science student at Carleton University
+**Jeff Blackadar** is an MA History with Data Science student at Carleton University. His research blog is at [jeffblackadar.ca/](http://jeffblackadar.ca/)
 
 ## Contact
 
