@@ -1,7 +1,7 @@
 ---
 title: "Semantic Similarity Chatbot"
 date: "2019-08-02"
-tags: ["chatbot", "semantics"]
+tags: ["chatbot", "semantics", "notebook"]
 ---
 
 The EMOTIVE project is using [chatbots to foster archaeological empathy](https://www.academia.edu/39061846/Transformation_through_Provocation_Designing_a_Bot_of_Conviction_to_Challenge_Conceptions_and_Evoke_Critical_Reflection). I'm wondering, can I use a chatbot as a way of exploring the latent idea space of published archeological knowledge?

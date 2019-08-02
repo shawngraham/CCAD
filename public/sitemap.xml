@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/notebooks/meshroom/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/notebooks/semantic-similarity-chatbot/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url>
@@ -62,13 +67,19 @@
   </url>
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/tags/notebook/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/notebooks/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://shawngraham.github.io/CCAD/tags/photogrammetry/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

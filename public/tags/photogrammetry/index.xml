@@ -6,10 +6,22 @@
     <description>Recent content in Photogrammetry on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shawngraham.github.io/CCAD/tags/photogrammetry/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3d Photogrammetry in the Cloud with Meshroom</title>
+      <link>https://shawngraham.github.io/CCAD/notebooks/meshroom/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/notebooks/meshroom/</guid>
+      <description>Meshroom ~ &amp;ldquo;Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.&amp;rdquo;
+The software runs with a GUI for Windows or Mac; but it can be run in the cloud and can take advantage of Google&amp;rsquo;s GPU-enabled collaborative notebooks.
+Have your images zipped up, and then run this notebook: Google Colab
+Upload the zip file, run each code block in turn. The code was first posted to Gist by donmahallem.</description>
+    </item>
     
     <item>
       <title>Hallucinatory Archaeological Landscapes</title>
