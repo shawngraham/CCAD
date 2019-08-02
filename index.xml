@@ -17,7 +17,8 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shawngraham.github.io/CCAD/gan-images/</guid>
-      <description>Generative adversarial networks can &amp;lsquo;paint&amp;rsquo; images or retrieve &amp;lsquo;photographs&amp;rsquo; of things that never existed. We are training a GAN on a series of site photographs as part of a 3d photogrammetry workflow, to computationally hallucinate the site. Below are some examples of other GAN projects
+      <description>Generative adversarial networks can &amp;lsquo;paint&amp;rsquo; images or retrieve &amp;lsquo;photographs&amp;rsquo; of things that never existed. We are training a GAN on a series of site photographs as part of a 3d photogrammetry workflow, to computationally hallucinate the site.
+Below are some examples of other GAN projects
  GAN Gogh A project by Kenny Jones and Derrick Bonafilia, training a GAN on European Masters. Their code repo is on Github. Write-up on Towards Data Science.</description>
     </item>
     
@@ -49,9 +50,8 @@ some blurry computer hallucinations of a cleaned excavation trench</description>
       <guid>https://shawngraham.github.io/CCAD/about/</guid>
       <description>inspirational quote on computational creativity
  and now a depressing quote about archaeological data
-  This project is my contribution to the larger CRANE - Computational Research in the Ancient Near East. With my research students, we are exploring ways we can creatively reuse legacy archaeological data (whether from the Ancient Near East or elsewhere) to generate new insights, new inspirations, new enchantments.
-Sara Perry writes,
- I believe archaeology can change the world for the better through its inherent and highly distinctive capacity to generate wonder and enchantment among human beings.</description>
+  This project is my contribution to the larger CRANE - Computational Research in the Ancient Near East project. With my research students, we are exploring ways we can creatively reuse legacy archaeological data (whether from the Ancient Near East or elsewhere) to generate new insights, new inspirations, new enchantments.
+Sara Perry writes,</description>
     </item>
     
   </channel>

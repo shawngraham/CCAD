@@ -17,7 +17,8 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shawngraham.github.io/CCAD/gan-images/</guid>
-      <description>Generative adversarial networks can &amp;lsquo;paint&amp;rsquo; images or retrieve &amp;lsquo;photographs&amp;rsquo; of things that never existed. We are training a GAN on a series of site photographs as part of a 3d photogrammetry workflow, to computationally hallucinate the site. Below are some examples of other GAN projects
+      <description>Generative adversarial networks can &amp;lsquo;paint&amp;rsquo; images or retrieve &amp;lsquo;photographs&amp;rsquo; of things that never existed. We are training a GAN on a series of site photographs as part of a 3d photogrammetry workflow, to computationally hallucinate the site.
+Below are some examples of other GAN projects
  GAN Gogh A project by Kenny Jones and Derrick Bonafilia, training a GAN on European Masters. Their code repo is on Github. Write-up on Towards Data Science.</description>
     </item>
     
