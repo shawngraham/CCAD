@@ -22,4 +22,10 @@ _Roussou, M., Perry, S., Katifori, A., Vassos, S., Tzouganatou, A., McKinney, S.
 
 [How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me) | [github](https://github.com/adeshpande3/Facebook-Messenger-Bot)
 
+[List of chatbot frameworks, code, etc](https://github.com/fendouai/Awesome-Chatbot)
+
+[A chatbot trained on reddit](https://github.com/pender/chatbot-rnn) ~ perhaps extract the archaeology reddit threads...
+
+[DeepQA](https://github.com/Conchylicultor/DeepQA) ~ has examples of training on your own dataset
+
 ...to be continued...
