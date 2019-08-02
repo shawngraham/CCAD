@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/notebooks/semantic-similarity-chatbot/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/gan-images/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -22,8 +27,14 @@
   </url>
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/tags/chatbot/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -51,6 +62,11 @@
   </url>
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/notebooks/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/tags/photogrammetry/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -62,6 +78,12 @@
   </url>
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/tags/semantics/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/tags/sonification/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -69,7 +91,7 @@
   
   <url>
     <loc>https://shawngraham.github.io/CCAD/tags/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

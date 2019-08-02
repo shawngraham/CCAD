@@ -28,22 +28,27 @@ googleAnalytics = "UA-123456789-1"
     name = "Updates"
     pre = "edit"
     url = "/post/"
-    weight = 2
+    weight = 3
   [[menu.nav]]
     name = "Tags"
     pre = "tag"
     url = "/tags/"
-    weight = 3
+    weight = 4
   [[menu.nav]]
     name = "About"
     pre = "smile"
     url = "/about/"
-    weight = 4
+    weight = 5
+  [[menu.nav]]
+    name = "Notebooks"
+    pre = "book"
+    url = "/notebooks/"
+    weight = 2
   [[menu.nav]]
     name = "RSS"
     pre = "rss"
     url = "/index.xml"
-    weight = 5
+    weight = 6
 
 [params]
   includeBootstrapJs = false
