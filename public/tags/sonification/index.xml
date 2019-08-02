@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sonification on Computational Creativity and Archaeological Data</title>
+    <link>https://shawngraham.github.io/CCAD/tags/sonification/</link>
+    <description>Recent content in Sonification on Computational Creativity and Archaeological Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shawngraham.github.io/CCAD/tags/sonification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What _is_ computational creativity, anyway?</title>
+      <link>https://shawngraham.github.io/CCAD/what-is-computational-creativity/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/what-is-computational-creativity/</guid>
+      <description>Computational creativity is what happens when we try to use the machine as a creative partner, a shattered prism, a performance enhancing drug. It&amp;rsquo;s a wonderful partnership between the machine, art, and humanistic understanding of the past. One of the best examples I can think of right now is Ferraby and St. John&amp;rsquo;s Soundmarks &amp;lsquo;using sound and visual art to explore and animate the sub-surface landscape of Aldborough Roman Town in North Yorkshire, UK&amp;rsquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
