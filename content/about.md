@@ -2,9 +2,7 @@
 date: "20149-08-01"
 title: "About"
 ---
-+ inspirational quote on computational creativity
-
-+ and now a depressing quote about archaeological data
+_Through the machines we employ, we are able to stretch our imaginations into new worlds, to ask new questions and find new solutions to old problems" - [Rose Ferraby, 'Geophysics: Creativity and the Archaeological Imagination'](https://intarch.ac.uk/journal/issue44/4/2.html)_
 
 This project is my contribution to the larger [CRANE - Computational Research in the Ancient Near East](https://crane.utoronto.ca/) project. With my research students, we are exploring ways we can creatively reuse legacy archaeological data (whether from the Ancient Near East or elsewhere) to generate new insights, new inspirations, new [enchantments](https://saraperry.wordpress.com/2019/07/25/its-published-archaeological-enchantment/).
 
