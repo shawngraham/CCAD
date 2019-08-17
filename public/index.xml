@@ -96,6 +96,25 @@ some blurry computer hallucinations of a cleaned excavation trench</description>
     </item>
     
     <item>
+      <title>Deep Learning with Python, Appendix A</title>
+      <link>https://shawngraham.github.io/CCAD/notebooks/jeff-first-book-mnist/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/notebooks/jeff-first-book-mnist/</guid>
+      <description>Jeff&amp;rsquo;s initial experiment with a Google Colab notebook, on the mnist dataset.</description>
+    </item>
+    
+    <item>
+      <title>Two notebooks for taking photos</title>
+      <link>https://shawngraham.github.io/CCAD/notebooks/jeff-photos/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/notebooks/jeff-photos/</guid>
+      <description>A notebook within which you may control your device&amp;rsquo;s camera to take photos. 
+A notebook for taking photos and removing backgrounds.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://shawngraham.github.io/CCAD/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

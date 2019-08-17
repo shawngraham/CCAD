@@ -41,5 +41,24 @@ I am doing research for the Computational Creativity and Archaeological Data pro
       <description>Jeff Blackadar is a part-time MA student in the Department of History, pursuing an MA in History with Data Science. As an undergrad, he published a lesson on MySQL with R in The Programming Historian. His work on the CCAD project will explore techniques of in-painting and image completion on archaeological photography, and the ways these images can be used for photogrammetry and the exploration of &amp;lsquo;fuzziness&amp;rsquo; in computational imagination / archaeological reconstruction.</description>
     </item>
     
+    <item>
+      <title>Deep Learning with Python, Appendix A</title>
+      <link>https://shawngraham.github.io/CCAD/notebooks/jeff-first-book-mnist/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/notebooks/jeff-first-book-mnist/</guid>
+      <description>Jeff&amp;rsquo;s initial experiment with a Google Colab notebook, on the mnist dataset.</description>
+    </item>
+    
+    <item>
+      <title>Two notebooks for taking photos</title>
+      <link>https://shawngraham.github.io/CCAD/notebooks/jeff-photos/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/notebooks/jeff-photos/</guid>
+      <description>A notebook within which you may control your device&amp;rsquo;s camera to take photos. 
+A notebook for taking photos and removing backgrounds.</description>
+    </item>
+    
   </channel>
 </rss>
