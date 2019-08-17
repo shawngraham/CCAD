@@ -43,6 +43,16 @@
   </url>
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/notebooks/jeff-first-book-mnist/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shawngraham.github.io/CCAD/notebooks/jeff-photos/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/about/</loc>
   </url>
   
@@ -119,6 +129,12 @@
   <url>
     <loc>https://shawngraham.github.io/CCAD/post/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shawngraham.github.io/CCAD/tags/python/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
