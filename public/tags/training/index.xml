@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on Computational Creativity and Archaeological Data</title>
+    <link>https://shawngraham.github.io/CCAD/tags/training/</link>
+    <description>Recent content in Training on Computational Creativity and Archaeological Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shawngraham.github.io/CCAD/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a set of images for image recognition</title>
+      <link>https://shawngraham.github.io/CCAD/creating-a-set-of-images-for-image-recognition/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/creating-a-set-of-images-for-image-recognition/</guid>
+      <description>crossposted from Jeff&amp;rsquo;s blog. Jeff is an MA History and Data Science student @CarletonU.
+I would like to train an image recognition model with my own images to see how well it works. Here I want to use the obverse of coins to make a model to recognize the portraits of Elizabeth II (younger), Elizabeth II (more mature), George VI and Abraham Lincoln.
+Initially I used 5 cent coins but I found they reflected too much light to take a good photograph so I switched to 1 cent coins.</description>
+    </item>
+    
+  </channel>
+</rss>

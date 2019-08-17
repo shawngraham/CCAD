@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer_vision on Computational Creativity and Archaeological Data</title>
+    <link>https://shawngraham.github.io/CCAD/tags/computer_vision/</link>
+    <description>Recent content in Computer_vision on Computational Creativity and Archaeological Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shawngraham.github.io/CCAD/tags/computer_vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a set of images for image recognition</title>
+      <link>https://shawngraham.github.io/CCAD/creating-a-set-of-images-for-image-recognition/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/creating-a-set-of-images-for-image-recognition/</guid>
+      <description>crossposted from Jeff&amp;rsquo;s blog. Jeff is an MA History and Data Science student @CarletonU.
+I would like to train an image recognition model with my own images to see how well it works. Here I want to use the obverse of coins to make a model to recognize the portraits of Elizabeth II (younger), Elizabeth II (more mature), George VI and Abraham Lincoln.
+Initially I used 5 cent coins but I found they reflected too much light to take a good photograph so I switched to 1 cent coins.</description>
+    </item>
+    
+    <item>
+      <title>Computational Creativity and Archaeological Data Project - Getting Started</title>
+      <link>https://shawngraham.github.io/CCAD/jeff-getting-started/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/jeff-getting-started/</guid>
+      <description>crossposted from Jeff&amp;rsquo;s blog. Jeff is an MA History and Data Science student @CarletonU.
+I am doing research for the Computational Creativity and Archaeological Data project. My current challenge has been to use techniques from Computer Vision to analyse images relevant to Computational Research on the Ancient Near East (CRANE) with the goal to provide additional understanding of these images. Computer Vision and machine learning could identify and classify elements in images or provide a possible reconstruction of a partial artifact using an image of it combined with a model of images of related artifacts.</description>
+    </item>
+    
+  </channel>
+</rss>
