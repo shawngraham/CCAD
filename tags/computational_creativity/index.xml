@@ -6,10 +6,20 @@
     <description>Recent content in Computational_creativity on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shawngraham.github.io/CCAD/tags/computational_creativity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computational Creativity and Archaeological Data Project - Getting Started</title>
+      <link>https://shawngraham.github.io/CCAD/jeff-getting-started/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/jeff-getting-started/</guid>
+      <description>crossposted from Jeff&amp;rsquo;s blog. Jeff is an MA History and Data Science student @CarletonU.
+I am doing research for the Computational Creativity and Archaeological Data project. My current challenge has been to use techniques from Computer Vision to analyse images relevant to Computational Research on the Ancient Near East (CRANE) with the goal to provide additional understanding of these images. Computer Vision and machine learning could identify and classify elements in images or provide a possible reconstruction of a partial artifact using an image of it combined with a model of images of related artifacts.</description>
+    </item>
     
     <item>
       <title>What _is_ computational creativity, anyway?</title>

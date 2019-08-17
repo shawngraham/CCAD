@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project Updates on Computational Creativity and Archaeological Data</title>
-    <link>https://shawngraham.github.io/CCAD/post/</link>
-    <description>Recent content in Project Updates on Computational Creativity and Archaeological Data</description>
+    <title>Jeff_blackadar on Computational Creativity and Archaeological Data</title>
+    <link>https://shawngraham.github.io/CCAD/tags/jeff_blackadar/</link>
+    <description>Recent content in Jeff_blackadar on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shawngraham.github.io/CCAD/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shawngraham.github.io/CCAD/tags/jeff_blackadar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -39,38 +39,6 @@ I am doing research for the Computational Creativity and Archaeological Data pro
       
       <guid>https://shawngraham.github.io/CCAD/introducing-jeff-blackadar/</guid>
       <description>Jeff Blackadar is a part-time MA student in the Department of History, pursuing an MA in History with Data Science. As an undergrad, he published a lesson on MySQL with R in The Programming Historian. His work on the CCAD project will explore techniques of in-painting and image completion on archaeological photography, and the ways these images can be used for photogrammetry and the exploration of &amp;lsquo;fuzziness&amp;rsquo; in computational imagination / archaeological reconstruction.</description>
-    </item>
-    
-    <item>
-      <title>Hallucinatory Archaeological Landscapes</title>
-      <link>https://shawngraham.github.io/CCAD/gan-images/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/gan-images/</guid>
-      <description>Generative adversarial networks can &amp;lsquo;paint&amp;rsquo; images or retrieve &amp;lsquo;photographs&amp;rsquo; of things that never existed. We are training a GAN on a series of site photographs as part of a 3d photogrammetry workflow, to computationally hallucinate the site.
-Below are some examples of other GAN projects
- GAN Gogh A project by Kenny Jones and Derrick Bonafilia, training a GAN on European Masters. Their code repo is on Github. Write-up on Towards Data Science.</description>
-    </item>
-    
-    <item>
-      <title>What _is_ computational creativity, anyway?</title>
-      <link>https://shawngraham.github.io/CCAD/what-is-computational-creativity/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/what-is-computational-creativity/</guid>
-      <description>It&amp;rsquo;s late at night, and I&amp;rsquo;m trying to pound out some words so that I have it on the screen what, roughly, I think is the/an answer to this question. I will come back to this over and over again during this project, I&amp;rsquo;m sure. Expect non-sequiturs.
-In their introduction to the issue of Internet Archaeology devoted to digital creativity, Gareth Beale and Paul Reilly point out how archaeologists tend to downplay the &amp;lsquo;theoretical implications [of digital tools] and to characterise methodological transformation in terms of technological innovation&amp;rsquo;.</description>
-    </item>
-    
-    <item>
-      <title>Getting underway</title>
-      <link>https://shawngraham.github.io/CCAD/getting-underway/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/getting-underway/</guid>
-      <description>I have spent a lot of time this afternoon getting this website up and running. But success!
-I&amp;rsquo;ve also got some generative and siamese network experiments underway
-some blurry computer hallucinations of a cleaned excavation trench</description>
     </item>
     
   </channel>
