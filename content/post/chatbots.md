@@ -6,11 +6,11 @@ tags: ["chatbots","engagement","mirror"]
 
 I've made a number of twitterbots, and one or two facebook messenger bots. In my [lesson on making twitterbots for the Programming Historian](https://programminghistorian.org/en/lessons/intro-to-twitterbots) I wrote:
 
-> I believe also that there is space in digital history and the digital humanities more generally for creative, expressive, artistic work. I belive that there is space for programming historians to use the affordances of digital media to create things that could not otherwise exist to move us, to inspire us, to challenge us. There is room for satire; there is room for comment. With Mark Sample, I believe that there is a need for ‘[bots of conviction](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa)’.
+> _I believe also that there is space in digital history and the digital humanities more generally for creative, expressive, artistic work. I belive that there is space for programming historians to use the affordances of digital media to create things that could not otherwise exist to move us, to inspire us, to challenge us. There is room for satire; there is room for comment. With Mark Sample, I believe that there is a need for ‘[bots of conviction](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa)’._
 
 Angeliki Tzouganatou reviews some heritage bots in a recent edition of [_Advances in Archaeological Practice_](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/can-heritage-bots-thrive-toward-future-engagement-in-cultural-heritage/0B1894A640F167BC25CCE47FB82840E8/core-reader) and ultimately concludes that the full potential of bots for understanding the past is not being met:
 
-> The majority of those in development and currently available online right now are closed and didactic in nature. The next step is to craft them into genuine mechanisms of chat, inviting users to actively interact and participate in the conversational experience
+> _The majority of those in development and currently available online right now are closed and didactic in nature. The next step is to craft them into genuine mechanisms of chat, inviting users to actively interact and participate in the conversational experience_
 
 Sara Perry's team has been trying a slightly different approach, and is using bots as a way of prompting reflective discussion (amongst the humans). Indeed, in Roussou et al 2019 they go so far as to call the bot they've designed a 'provocation', drawing on Sample's 'bots of conviction' framework.
 
@@ -26,7 +26,7 @@ While it's not quite the state-of-the-art for neural network approaches to text,
 
 And so I am currently playing with [https://github.com/pender/chatbot-rnn](https://github.com/pender/chatbot-rnn) which builds from Karpathy's work but also includes a feature called 'relevance':
 
-> Two models are run in parallel: the primary model and the mask model. The mask model is scaled by the relevance value, and then the probabilities of the primary model are combined according to equation 9 in Li, Jiwei, et al. "A diversity-promoting objective function for neural conversation models." arXiv preprint arXiv:1510.03055 (2015).
+> _Two models are run in parallel: the primary model and the mask model. The mask model is scaled by the relevance value, and then the probabilities of the primary model are combined according to equation 9 in Li, Jiwei, et al. "A diversity-promoting objective function for neural conversation models." arXiv preprint arXiv:1510.03055 (2015)._
 
 Stay tuned.
 
