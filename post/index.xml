@@ -6,10 +6,20 @@
     <description>Recent content in Project Updates on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shawngraham.github.io/CCAD/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Chatbots?</title>
+      <link>https://shawngraham.github.io/CCAD/chatbots/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/chatbots/</guid>
+      <description>I&amp;rsquo;ve made a number of twitterbots, and one or two facebook messenger bots. In my lesson on making twitterbots for the Programming Historian I wrote:
+ I believe also that there is space in digital history and the digital humanities more generally for creative, expressive, artistic work. I belive that there is space for programming historians to use the affordances of digital media to create things that could not otherwise exist to move us, to inspire us, to challenge us.</description>
+    </item>
     
     <item>
       <title>Creating a set of images for image recognition</title>
