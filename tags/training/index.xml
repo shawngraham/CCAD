@@ -6,10 +6,20 @@
     <description>Recent content in Training on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shawngraham.github.io/CCAD/tags/training/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fall 2019 Recap</title>
+      <link>https://shawngraham.github.io/CCAD/fall-term-recap/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/fall-term-recap/</guid>
+      <description>I&amp;rsquo;ve done not a particularly good job of keeping this website up to date. But we have been busy.
+In the fall, we arranged for some more data science training for Jeff, and he&amp;rsquo;s been working hard on learning Keras and other packages and approaches for the various tasks we have in mind for this project. I&amp;rsquo;ve been reposting some of his open research notes here, but since I&amp;rsquo;ve fallen behind, I&amp;rsquo;ll just link over to his notes here.</description>
+    </item>
     
     <item>
       <title>Creating a set of images for image recognition</title>
