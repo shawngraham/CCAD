@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/fall-term-recap/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/chatbots/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
@@ -75,7 +80,7 @@
   
   <url>
     <loc>https://shawngraham.github.io/CCAD/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -86,7 +91,7 @@
   
   <url>
     <loc>https://shawngraham.github.io/CCAD/tags/computer_vision/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -104,13 +109,13 @@
   
   <url>
     <loc>https://shawngraham.github.io/CCAD/tags/image_recognition/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://shawngraham.github.io/CCAD/tags/jeff_blackadar/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,8 +155,14 @@
   </url>
   
   <url>
+    <loc>https://shawngraham.github.io/CCAD/tags/pompeii/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://shawngraham.github.io/CCAD/post/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -186,7 +197,7 @@
   
   <url>
     <loc>https://shawngraham.github.io/CCAD/tags/training/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
