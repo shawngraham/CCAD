@@ -4,7 +4,7 @@
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="generator" content="Hugo 0.54.0" />
+  <meta name="generator" content="Hugo 0.83.1" />
   <link rel="stylesheet" href="https://shawngraham.github.io/CCAD/css/bootstrap.min.css">
   
   
@@ -180,23 +180,14 @@ audio {
 
 <br><br>
 <p><em>crossposted from <a href="http://jeffblackadar.ca/uncategorized/creating-a-set-of-images-for-image-recognition/">Jeff&rsquo;s blog</a>. Jeff is an MA History and Data Science student <a href="http://carleton.ca/history">@CarletonU</a>.</em></p>
-
-<p><img src="http://jeffblackadar.ca/wp-content/uploads/2019/08/phone_photo_gantry_med-1.jpg" alt="iPhone camera gantry to take photos in focus at 3x magnification" /></p>
-
+<p><img src="http://jeffblackadar.ca/wp-content/uploads/2019/08/phone_photo_gantry_med-1.jpg" alt="iPhone camera gantry to take photos in focus at 3x magnification"></p>
 <p>I would like to train an image recognition model with my own images to see how well it works. Here I want to use the obverse of coins to make a model to recognize the portraits of Elizabeth II (younger), Elizabeth II (more mature), George VI and Abraham Lincoln.</p>
-
 <p>Initially I used 5 cent coins but I found they reflected too much light to take a good photograph so I switched to 1 cent coins. I also started with a camera on a Microsoft Surface Pro computer, taking pictures of 9 coins at a time in order to try to be efficient, but I did not get the higher image quality I believe I need.</p>
-
-<p><img src="http://jeffblackadar.ca/wp-content/uploads/2019/08/surface_pro_gantry.jpg" alt="Microsoft Surface Pro camera taking pictures using a Python program in Google Colab" /></p>
-
-<p><img src="http://jeffblackadar.ca/wp-content/uploads/2019/08/Elizabeth-II-young-2019-08-10-15_43_51.650337.jpg" alt="Photograph taken using the Surface Pro camera" /></p>
-
-<p><img src="http://jeffblackadar.ca/wp-content/uploads/2019/08/IMG_0282-1.jpg" alt="Photo taken with iPhone: 3x magnification, square layout, flash on white paper background" /></p>
-
+<p><img src="http://jeffblackadar.ca/wp-content/uploads/2019/08/surface_pro_gantry.jpg" alt="Microsoft Surface Pro camera taking pictures using a Python program in Google Colab"></p>
+<p><img src="http://jeffblackadar.ca/wp-content/uploads/2019/08/Elizabeth-II-young-2019-08-10-15_43_51.650337.jpg" alt="Photograph taken using the Surface Pro camera"></p>
+<p><img src="http://jeffblackadar.ca/wp-content/uploads/2019/08/IMG_0282-1.jpg" alt="Photo taken with iPhone: 3x magnification, square layout, flash on white paper background"></p>
 <p>The next step is to remove the background using OpenCV in Python, crop the image to have just the coin. I don’t want to have the image recognition model recognize the portrait because her name is printed on it, so I will crop it again to have only the portrait.</p>
-
 <p>I believe this type of image processing can be applied to historical artifacts photographed using a neutral background. I am concerned the coins are too worn and have too little variation in colour to make a good model but that in itself will be useful to learn if it’s the case.</p>
-
 <p>My thanks to the Saskatoon Coin Club for their <a href="http://www.saskatooncoinclub.ca/articles/03b_1_cent_obverse.html">excellent page</a> describing the obverse designs of Canadian one cent coins.</p>
 
 

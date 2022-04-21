@@ -1,15 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Image_recognition on Computational Creativity and Archaeological Data</title>
+    <title>image_recognition on Computational Creativity and Archaeological Data</title>
     <link>https://shawngraham.github.io/CCAD/tags/image_recognition/</link>
-    <description>Recent content in Image_recognition on Computational Creativity and Archaeological Data</description>
+    <description>Recent content in image_recognition on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shawngraham.github.io/CCAD/tags/image_recognition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Happened to 2021-2022?</title>
+      <link>https://shawngraham.github.io/CCAD/year-in-review-2021-2022/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/year-in-review-2021-2022/</guid>
+      <description>General Thrust of Our Group This Year Last year, we moved to more of a skunkworks approach, where I provided some overall direction, but allowed the team to follow their nose where&amp;rsquo;er it leads. In general terms, we&amp;rsquo;re taking an approach to using computer vision to archaeological imagery, for both research, outreach, and as a lens through which we deform the past, to bring new elements into view
+Graduates  Completed MA for Jeff Blackadar, History with Data Science.</description>
+    </item>
     
-	<atom:link href="https://shawngraham.github.io/CCAD/tags/image_recognition/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>What Happened to 2020 - 2021?</title>
+      <link>https://shawngraham.github.io/CCAD/year-in-review-2020-2021/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/year-in-review-2020-2021/</guid>
+      <description>I&amp;rsquo;m&amp;hellip; I&amp;rsquo;m not entirely sure. We were all busy, but it was the kind of busy that doesn&amp;rsquo;t really translate into immediate products. The problem with working with legacy datasets is finding legacy datasets you can work with. But really&amp;hellip; the world&amp;rsquo;s been on fire. Things slipped down the cracks.
+Some of the team graduated. Emma Gillies has moved on, after using what she learned here to visually analyze the evolution of Canadian craft beer labels (!</description>
+    </item>
     
     <item>
       <title>Fall 2019 Recap</title>
@@ -38,7 +54,8 @@ Initially I used 5 cent coins but I found they reflected too much light to take 
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shawngraham.github.io/CCAD/notebooks/jeff-first-book-mnist/</guid>
-      <description>Jeff&amp;rsquo;s initial experiment with a Google Colab notebook, on the mnist dataset.</description>
+      <description>Jeff&amp;rsquo;s initial experiment with a Google Colab notebook, on the mnist dataset.
+&amp;lt;a href=&amp;quot;https://colab.research.google.com/github/jeffblackadar/image_work/blob/master/deep_learning_with_python_appendix_a.ipynb&amp;quot; target=&amp;quot;_parent&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://colab.research.google.com/assets/colab-badge.svg&amp;quot; alt=&amp;quot;Open In Colab&amp;quot;/&amp;gt;</description>
     </item>
     
     <item>

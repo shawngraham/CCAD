@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notebooks on Computational Creativity and Archaeological Data</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Notebooks on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://shawngraham.github.io/CCAD/notebooks/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://shawngraham.github.io/CCAD/notebooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3d Photogrammetry in the Cloud with Meshroom</title>
       <link>https://shawngraham.github.io/CCAD/notebooks/meshroom/</link>
@@ -39,7 +35,8 @@ Allison Parrish&amp;rsquo;s bot demonstrates how to build a chatbot trained on t
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shawngraham.github.io/CCAD/notebooks/jeff-first-book-mnist/</guid>
-      <description>Jeff&amp;rsquo;s initial experiment with a Google Colab notebook, on the mnist dataset.</description>
+      <description>Jeff&amp;rsquo;s initial experiment with a Google Colab notebook, on the mnist dataset.
+&amp;lt;a href=&amp;quot;https://colab.research.google.com/github/jeffblackadar/image_work/blob/master/deep_learning_with_python_appendix_a.ipynb&amp;quot; target=&amp;quot;_parent&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;https://colab.research.google.com/assets/colab-badge.svg&amp;quot; alt=&amp;quot;Open In Colab&amp;quot;/&amp;gt;</description>
     </item>
     
     <item>
