@@ -4,7 +4,7 @@
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="generator" content="Hugo 0.54.0" />
+  <meta name="generator" content="Hugo 0.83.1" />
   <link rel="stylesheet" href="https://shawngraham.github.io/CCAD/css/bootstrap.min.css">
   
   
@@ -183,21 +183,13 @@ audio {
 
 <br><br>
 <p>I&rsquo;ve done not a particularly good job of keeping this website up to date. But we have been busy.</p>
-
 <p>In the fall, we arranged for some more data science training for Jeff, and he&rsquo;s been working hard on learning Keras and other packages and approaches for the various tasks we have in mind for this project. I&rsquo;ve been reposting some of his open research notes here, but since I&rsquo;ve fallen behind, I&rsquo;ll just link over to his notes <a href="http://jeffblackadar.ca/">here</a>.</p>
-
 <p>We are still exploring how to teach the computer to imagine like an archaeologist. An archaeologist can look at a partial profile of a pot or a piece of architecture, and based on their training and experience, they&rsquo;ll be able to make a reasonable reconstruction of the entire piece. They&rsquo;re helped by the regularity of forms and so on, even though there are times when folks in the past did something that throws us a curveball. Which is to say: why can&rsquo;t we teach machines to make those same intuitive leaps?</p>
-
 <p>In which case, we&rsquo;ve been looking at image in-painting as one way of doing this. We take an  image that the machine hasn&rsquo;t seen before, and mask out areas of the image. Based on its training, the machine then tries to fill the image. Since we know what the complete image looks like, we can measure the degree of success, then tweak things and try again.</p>
-
 <p>Another thing we&rsquo;re exploring is hallucinating whole images from scratch (that is, using generative adversarial images). What truth(s) might this approach show us?</p>
-
 <p>Going even further out on the limb, we want to use these adversarial images as fodder for photogrammetry. Can we also do something akin to 2d image inpainting with 3d models?</p>
-
 <p>The problem is one of data. While this work that Jeff and I are doing is a subproject of the larger CRANE project, we don&rsquo;t have any near eastern materials to work with. I have no archaeological archives I&rsquo;ve created that I can readily tap. It&rsquo;s been a while since I was in the field. So we looked at a variety of online repositories, for pottery, for all sorts of things. <a href="http://opencontext.org">Open Context</a> is probably our best bet there.</p>
-
 <p>In the meantime however we&rsquo;ve been chatting with Eric Poehler of the University of Massachusetts Amherst about his work at Pompeii, and he&rsquo;s provided us access to his very rich archive of site photographs. Given that there are few archaeological sites as well studied and well understood as Pompeii, these photos are excellent training data for us to work with. There is a good degree of ground truth. We&rsquo;ll work with Eric and his team then to develop our methods, which will also involve building some classifiers (using transfer learning) and image similarity visualizations at scale.</p>
-
 <p>It has been a productive term, and I&rsquo;m excited to see where Jeff takes this work next!</p>
 
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Computational Creativity and Archaeological Data</title>
@@ -6,40 +6,36 @@
     <description>Recent content in Tags on Computational Creativity and Archaeological Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://shawngraham.github.io/CCAD/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shawngraham.github.io/CCAD/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chatbot</title>
-      <link>https://shawngraham.github.io/CCAD/tags/chatbot/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <title>image_recognition</title>
+      <link>https://shawngraham.github.io/CCAD/tags/image_recognition/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shawngraham.github.io/CCAD/tags/chatbot/</guid>
+      <guid>https://shawngraham.github.io/CCAD/tags/image_recognition/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Chatbots</title>
-      <link>https://shawngraham.github.io/CCAD/tags/chatbots/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <title>meta</title>
+      <link>https://shawngraham.github.io/CCAD/tags/meta/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shawngraham.github.io/CCAD/tags/chatbots/</guid>
+      <guid>https://shawngraham.github.io/CCAD/tags/meta/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Computational_creativity</title>
-      <link>https://shawngraham.github.io/CCAD/tags/computational_creativity/</link>
-      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      <title>recap</title>
+      <link>https://shawngraham.github.io/CCAD/tags/recap/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shawngraham.github.io/CCAD/tags/computational_creativity/</guid>
+      <guid>https://shawngraham.github.io/CCAD/tags/recap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Computer_vision</title>
+      <title>computer_vision</title>
       <link>https://shawngraham.github.io/CCAD/tags/computer_vision/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -48,34 +44,7 @@
     </item>
     
     <item>
-      <title>Engagement</title>
-      <link>https://shawngraham.github.io/CCAD/tags/engagement/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/engagement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gan</title>
-      <link>https://shawngraham.github.io/CCAD/tags/gan/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image_recognition</title>
-      <link>https://shawngraham.github.io/CCAD/tags/image_recognition/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/image_recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeff_blackadar</title>
+      <title>Jeff_Blackadar</title>
       <link>https://shawngraham.github.io/CCAD/tags/jeff_blackadar/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -84,52 +53,7 @@
     </item>
     
     <item>
-      <title>Landscapes</title>
-      <link>https://shawngraham.github.io/CCAD/tags/landscapes/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/landscapes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meta</title>
-      <link>https://shawngraham.github.io/CCAD/tags/meta/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mirror</title>
-      <link>https://shawngraham.github.io/CCAD/tags/mirror/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/mirror/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Notebook</title>
-      <link>https://shawngraham.github.io/CCAD/tags/notebook/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photogrammetry</title>
-      <link>https://shawngraham.github.io/CCAD/tags/photogrammetry/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shawngraham.github.io/CCAD/tags/photogrammetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pompeii</title>
+      <title>pompeii</title>
       <link>https://shawngraham.github.io/CCAD/tags/pompeii/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -138,16 +62,79 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://shawngraham.github.io/CCAD/tags/python/</link>
-      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      <title>training</title>
+      <link>https://shawngraham.github.io/CCAD/tags/training/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shawngraham.github.io/CCAD/tags/python/</guid>
+      <guid>https://shawngraham.github.io/CCAD/tags/training/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Semantics</title>
+      <title>chatbots</title>
+      <link>https://shawngraham.github.io/CCAD/tags/chatbots/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/chatbots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>engagement</title>
+      <link>https://shawngraham.github.io/CCAD/tags/engagement/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mirror</title>
+      <link>https://shawngraham.github.io/CCAD/tags/mirror/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/mirror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computational_creativity</title>
+      <link>https://shawngraham.github.io/CCAD/tags/computational_creativity/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/computational_creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chatbot</title>
+      <link>https://shawngraham.github.io/CCAD/tags/chatbot/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notebook</title>
+      <link>https://shawngraham.github.io/CCAD/tags/notebook/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photogrammetry</title>
+      <link>https://shawngraham.github.io/CCAD/tags/photogrammetry/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/photogrammetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantics</title>
       <link>https://shawngraham.github.io/CCAD/tags/semantics/</link>
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -156,7 +143,25 @@
     </item>
     
     <item>
-      <title>Sonification</title>
+      <title>GAN</title>
+      <link>https://shawngraham.github.io/CCAD/tags/gan/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landscapes</title>
+      <link>https://shawngraham.github.io/CCAD/tags/landscapes/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shawngraham.github.io/CCAD/tags/landscapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sonification</title>
       <link>https://shawngraham.github.io/CCAD/tags/sonification/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -165,7 +170,7 @@
     </item>
     
     <item>
-      <title>Thinking Out Loud</title>
+      <title>thinking-out-loud</title>
       <link>https://shawngraham.github.io/CCAD/tags/thinking-out-loud/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -174,11 +179,11 @@
     </item>
     
     <item>
-      <title>Training</title>
-      <link>https://shawngraham.github.io/CCAD/tags/training/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <title>python</title>
+      <link>https://shawngraham.github.io/CCAD/tags/python/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shawngraham.github.io/CCAD/tags/training/</guid>
+      <guid>https://shawngraham.github.io/CCAD/tags/python/</guid>
       <description></description>
     </item>
     
